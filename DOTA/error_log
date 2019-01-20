@@ -1,0 +1,7 @@
+[02-Jun-2018 19:37:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/legendqu/public_html/DOTA/index.php on line 14
+[02-Jun-2018 19:37:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/legendqu/public_html/DOTA/index.php on line 97
+[03-Jun-2018 12:56:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/legendqu/public_html/DOTA/index.php on line 14
+[04-Jun-2018 00:28:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/legendqu/public_html/DOTA/index.php on line 14
+[04-Jun-2018 00:45:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/legendqu/public_html/DOTA/index.php on line 14
+[04-Jun-2018 00:45:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/legendqu/public_html/DOTA/index.php on line 14
+[04-Jun-2018 00:45:17 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/legendqu/public_html/DOTA/index.php on line 14
