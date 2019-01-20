@@ -6,7 +6,7 @@
 	
 	define('DBHOST', 'localhost');
 	define('DBUSER', 'legendqu_quiz');
-	define('DBPASS', 'vesnicunu11');
+	define('DBPASS', 'passw');
 	define('DBNAME', 'legendqu_quiz');
 	
 	$conn = mysql_connect(DBHOST,DBUSER,DBPASS);
